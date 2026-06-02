@@ -15,7 +15,7 @@ st.markdown("""
     .en-line { color: #1e3a8a; font-weight: 600; font-size: 16px; margin-bottom: 2px; }
     .ar-line { color: #047857; font-weight: 500; font-size: 16px; margin-bottom: 15px; background-color: #f0fdf4; padding: 5px; border-radius: 5px; }
 </style>
-""", unsafe_allow_index=True)
+""", unsafe_allow_html=True)
 
 st.title("💊 منصة الصيدلة الأكاديمية الذكية")
 st.caption("إصدار 2026 - مدعوم بنموذج Gemini 3 وربط البحث المباشر")
